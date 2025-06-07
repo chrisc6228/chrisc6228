@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
-- ENPHO/Gallery: Smart auto-tagging image hosting site: https://github.com/en-pho/gallery
-- chrisc6228/gillespie-solver: 2D Dynamical Systems Stochastic Simulator: https://github.com/chrisc6228/gillespie-solver
+  - ENPHO/Gallery: Smart auto-tagging image hosting site: https://github.com/en-pho/gallery
+  - chrisc6228/gillespie-solver: 2D Dynamical Systems Stochastic Simulator: https://github.com/chrisc6228/gillespie-solver
 
 - Other Details:
-- LinkedIn: https://www.linkedin.com/in/zhilin-chang-326b6b360/
+  - LinkedIn: https://www.linkedin.com/in/zhilin-chang-326b6b360/
