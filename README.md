@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
-  - ENPHO/Gallery: Smart auto-tagging image hosting site: https://github.com/en-pho/gallery
+  - en-pho/Gallery: Smart auto-tagging image hosting site: https://github.com/en-pho/gallery
   - chrisc6228/gillespie-solver: 2D Dynamical Systems Stochastic Simulator: https://github.com/chrisc6228/gillespie-solver
   - UW-Social/uw-social.github.io: Events, Opportunities & Social Hub for UW Students(esp new admits): https://github.com/UW-Social/uw-social.github.io
 
