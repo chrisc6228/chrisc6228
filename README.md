@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   - Orca Soup: http://turtlesoup.aurorum.co/
 
 - Other Details:
-  - LinkedIn: https://www.linkedin.com/in/zhilin-chang-326b6b360/
+  - LinkedIn: https://www.linkedin.com/in/zchang2638/
