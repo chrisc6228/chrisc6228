@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   - UW-Social/uw-social.github.io: Events, Opportunities & Social Hub for UW Students(esp new admits): https://github.com/UW-Social/uw-social.github.io
   - en-pho/gallery: Smart auto-tagging image processor: https://github.com/en-pho/gallery
   - chrisc6228/gillespie-solver: 2D Dynamical Systems Stochastic Simulator: https://github.com/chrisc6228/gillespie-solver
-- My Projects
+- My Projects ...
   - Orca Soup: http://turtlesoup.aurorum.co/
 
-- Links:
+- Links ...
   - LinkedIn: https://www.linkedin.com/in/zchang2638/
