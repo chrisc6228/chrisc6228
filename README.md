@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   - UW-Social/uw-social.github.io: Events, Opportunities & Social Hub for Students: https://github.com/UW-Social/uw-social.github.io
-  - en-pho/esp32cam: Minimalistic esp32 camera that can process effects on the fly: https://github.com/en-pho/esp32cam
   - chrisc6228/gillespie-solver: 2D Dynamical Systems Stochastic Simulator: https://github.com/chrisc6228/gillespie-solver
-- My Projects 
+- Projects 
   - Orca Soup: http://turtlesoup.aurorum.co/
+  - en-pho/esp32cam: Minimalistic esp32 camera that can process effects on the fly: https://github.com/en-pho/esp32cam
 
 - Links 
   - LinkedIn: https://www.linkedin.com/in/zchang2638/
