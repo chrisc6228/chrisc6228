@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   - chrisc6228/gillespie-solver: 2D Dynamical Systems Stochastic Simulator: https://github.com/chrisc6228/gillespie-solver
 - Projects 
   - OrcaSoup: http://turtlesoup.aurorum.co/
-  - en-pho/esp32cam: Minimalistic esp32 camera that can process effects on the fly: https://github.com/en-pho/esp32cam
-
+<!--  - en-pho/esp32cam: Minimalistic esp32 camera that can process effects on the fly: https://github.com/en-pho/esp32cam -->
 - Links 
   - LinkedIn: https://www.linkedin.com/in/zchang2638/
